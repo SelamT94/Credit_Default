@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+imblearn
+tensorflow
+autogluon
+tabpfn
+streamlit
+matplotlib
+seaborn
+joblib
+ucimlrepo
+
